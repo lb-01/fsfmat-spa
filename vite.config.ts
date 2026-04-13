@@ -4,6 +4,7 @@ import { configDefaults } from 'vitest/config';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+	base: '/fsfmat-spa/',
 	plugins: [preact()],
 	test: {
 		environment: 'jsdom',
