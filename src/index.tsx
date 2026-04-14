@@ -13,7 +13,7 @@ export function App() {
 				flexDirection: 'column',
 				justifyContent: 'center',
 				alignItems: 'center',
-				background: 'rgba(66, 98, 126, 1)',
+				background: 'rgb(247, 0, 185)',
 			}}
 		>
 			<svg
